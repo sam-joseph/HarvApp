@@ -4,7 +4,8 @@
   "description": "connect database for harv flutter app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\"",
+    "start": "node index"
   },
   "author": "sam",
   "license": "ISC",
